@@ -37,7 +37,7 @@
     "@reactway/eslint-config": "^1.0.4",
     "@types/fs-extra": "^9.0.4",
     "@types/jest": "^26.0.16",
-    "@types/node": "^14.14.10",
+    "@types/node": "^15.12.5",
     "@types/semver": "^7.3.4",
     "@typescript-eslint/parser": "^4.9.0",
     "@vercel/ncc": "^0.25.1",
